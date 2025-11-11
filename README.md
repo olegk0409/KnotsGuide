@@ -17,3 +17,11 @@ KnotsGuide is an educational and practical app that helps users learn about diff
 - React Navigation
 - AsyncStorage for local data persistence
 - Zustand for state management
+
+⚙️ Installation:
+
+git clone https://github.com/olegk0409/KnotsGuide.git
+cd KnotsGuide
+npm install
+npx expo prebuild --platform android
+npm run android
