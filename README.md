@@ -20,8 +20,8 @@ KnotsGuide is an educational and practical app that helps users learn about diff
 
 ⚙️ Installation:
 
-git clone https://github.com/olegk0409/KnotsGuide.git
-cd KnotsGuide
-npm install
-npx expo prebuild --platform android
-npm run android
+- git clone https://github.com/olegk0409/KnotsGuide.git
+- cd KnotsGuide
+- npm install
+- npx expo prebuild --platform android
+- npm run android
